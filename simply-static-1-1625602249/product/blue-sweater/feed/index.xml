@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Blue Sweater	</title>
+	<atom:link href="https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/product/blue-sweater/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/product/blue-sweater/</link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Jul 2021 08:25:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: raibercristian		</title>
+		<link>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/product/blue-sweater/#comment-5</link>
+
+		<dc:creator><![CDATA[raibercristian]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2017 06:14:29 +0000</pubDate>
+		<guid isPermaLink="false">https://colorlib.com/tyche/?post_type=product&#038;p=54#comment-5</guid>
+
+					<description><![CDATA[Sed vitae eros imperdiet, tempor lorem bibendum, maximus orci. Aliquam sit amet commodo metus, vel consequat mauris.]]></description>
+			<content:encoded><![CDATA[<p>Sed vitae eros imperdiet, tempor lorem bibendum, maximus orci. Aliquam sit amet commodo metus, vel consequat mauris.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
