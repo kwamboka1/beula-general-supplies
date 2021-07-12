@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Home	</title>
-	<atom:link href="https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/home/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git</link>
+	<atom:link href="https://kwamboka1.github.io/beula-general-supplies/home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kwamboka1.github.io/beula-general-supplies</link>
 	<description></description>
 	<lastBuildDate>Wed, 24 May 2017 06:16:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

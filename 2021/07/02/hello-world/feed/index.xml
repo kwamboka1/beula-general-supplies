@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/2021/07/02/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/2021/07/02/hello-world/</link>
+	<atom:link href="https://kwamboka1.github.io/beula-general-supplies/2021/07/02/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kwamboka1.github.io/beula-general-supplies/2021/07/02/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Fri, 02 Jul 2021 10:08:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/2021/07/02/hello-world/#comment-1</link>
+		<link>https://kwamboka1.github.io/beula-general-supplies/2021/07/02/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 02 Jul 2021 10:08:24 +0000</pubDate>
-		<guid isPermaLink="false">https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://kwamboka1.github.io/beula-general-supplies/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

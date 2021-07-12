@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Beula General Supplies</title>
-	<atom:link href="https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git</link>
+	<atom:link href="https://kwamboka1.github.io/beula-general-supplies/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kwamboka1.github.io/beula-general-supplies</link>
 	<description></description>
 	<lastBuildDate>Fri, 02 Jul 2021 10:08:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/wp-content/uploads/2021/07/cropped-cropped-beula-1-65x65.png</url>
+	<url>https://kwamboka1.github.io/beula-general-supplies/wp-content/uploads/2021/07/cropped-cropped-beula-1-65x65.png</url>
 	<title>Uncategorized &#8211; Beula General Supplies</title>
-	<link>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git</link>
+	<link>https://kwamboka1.github.io/beula-general-supplies</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/2021/07/02/hello-world/</link>
-					<comments>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/2021/07/02/hello-world/#comments</comments>
+		<link>https://kwamboka1.github.io/beula-general-supplies/2021/07/02/hello-world/</link>
+					<comments>https://kwamboka1.github.io/beula-general-supplies/2021/07/02/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[aoko]]></dc:creator>
 		<pubDate>Fri, 02 Jul 2021 10:08:24 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/?p=1</guid>
+		<guid isPermaLink="false">https://kwamboka1.github.io/beula-general-supplies/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/kwamboka1/kwamboka1.github.io-beula-general-supplies.git/2021/07/02/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://kwamboka1.github.io/beula-general-supplies/2021/07/02/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
