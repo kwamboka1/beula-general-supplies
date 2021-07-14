@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; Beula General Supplies &#8212; WordPress</title>
+	<title>Log In &lsaquo; Beula biz Supplies &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://kwamboka1.github.io/beula-general-supplies/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
@@ -55,7 +55,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://kwamboka1.github.io/beula-general-supplies/">&larr; Go to Beula General Supplies</a>		</p>
+			<a href="https://kwamboka1.github.io/beula-general-supplies/">&larr; Go to Beula biz Supplies</a>		</p>
 			</div>
 	<script type="text/javascript" src="https://kwamboka1.github.io/beula-general-supplies/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://kwamboka1.github.io/beula-general-supplies/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -96,7 +96,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/aoko\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://kwamboka1.github.io/beula-general-supplies/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"f7c97a2ffc"};
+var userProfileL10n = {"user_id":"0","nonce":"e20e5c58e6"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
