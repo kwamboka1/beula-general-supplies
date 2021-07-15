@@ -96,7 +96,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/aoko\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://kwamboka1.github.io/beula-general-supplies/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"e20e5c58e6"};
+var userProfileL10n = {"user_id":"0","nonce":"67ab0e13a2"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">

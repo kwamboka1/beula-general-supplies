@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cereals &#8211; Beula biz Supplies</title>
+	<atom:link href="https://kwamboka1.github.io/beula-general-supplies/product-category/cereals/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kwamboka1.github.io/beula-general-supplies</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Jul 2021 12:24:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://kwamboka1.github.io/beula-general-supplies/wp-content/uploads/2021/07/cropped-cropped-beula-1-65x65.png</url>
+	<title>Cereals &#8211; Beula biz Supplies</title>
+	<link>https://kwamboka1.github.io/beula-general-supplies</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cereals</title>
+		<link>https://kwamboka1.github.io/beula-general-supplies/product/hoodie-with-logo/</link>
+					<comments>https://kwamboka1.github.io/beula-general-supplies/product/hoodie-with-logo/#respond</comments>
+		
+		<dc:creator><![CDATA[aoko]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 10:21:24 +0000</pubDate>
+				<guid isPermaLink="false">https://kwamboka1.github.io/beula-general-supplies/product/hoodie-with-logo/</guid>
+
+					<description><![CDATA[Cereals]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kwamboka1.github.io/beula-general-supplies/product/hoodie-with-logo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
